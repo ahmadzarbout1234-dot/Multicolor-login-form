@@ -21,6 +21,7 @@ A modern and responsive multicolor login form built using HTML, CSS, and JavaScr
 ├── style.css
 └── script.js
 
-## Download Code
+## 📥 Download Code
 
+```bash
 git clone https://github.com/ahmadzarbout1234-dot/Multicolor-login-form.git
